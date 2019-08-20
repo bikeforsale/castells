@@ -5,16 +5,16 @@ image_thumbs_loc: "/images/thumbs"
 #google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photography | Joe Brew"
-subtitle: "family, health, development, travel"
+title: "Castells, Festa Major, Santa Coloma de Queralt"
+subtitle: "capital del blat"
 author: "Joe Brew"
 header:
- title: "Photography"
- subtitle: "by Joe Brew"
+ title: "Castells"
+ subtitle: "Santa Coloma de Queralt"
 footer:
- name: "Joe Brew"
- bio: "I am a guy who does things and sometimes takes a camera along."
- github: "Want to know more? Click <a href=\"https://joebrew.net\">here</a>."
+ name: "Santa Coloma de Queralt"
+ bio: "Santa Coloma de Queralt: La Capital del Blat. Festival 2019."
+ github: "<a href=\"https://joebrew.net\">here</a>."
 social_urls:
   facebook: "https://www.facebook.com/josephbrew"
   twitter: "https://www.twitter.com/joethebrew"
